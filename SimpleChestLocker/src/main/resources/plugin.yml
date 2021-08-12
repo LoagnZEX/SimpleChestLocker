@@ -1,5 +1,5 @@
 name: SimpleChestLocker
-version: ${1.0}
+version: ${1.1}
 main: com.logan.simplechestlock.simplechestlock.Main
 api-version: 1.17
 authors: [ YucongZhang ]
