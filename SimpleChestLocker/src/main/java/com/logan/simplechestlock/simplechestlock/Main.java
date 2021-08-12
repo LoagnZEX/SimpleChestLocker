@@ -27,7 +27,7 @@ public final class Main extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        getServer().getPluginManager().registerEvents(new onClickChest(), this);
+        getServer().getPluginManager().registerEvents(new ClickChest(), this);
         main = this;
 
         try {
